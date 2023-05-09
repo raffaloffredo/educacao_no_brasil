@@ -13,9 +13,9 @@ O artigo "Precisa de motivação para estudar? Veja isso!" mostra recortes refer
 <br/>
 <br/>
 
-Clique [aqui](https://medium.com/@loffredo.ds/como-criar-um-gr%C3%A1fico-animado-com-o-bar-chart-race-878a0e693246) para acessar o artigo.
+Clique [aqui](https://www.linkedin.com/pulse/precisa-de-motiva%25C3%25A7%25C3%25A3o-para-estudar-veja-isso-raffaela-loffredo) para acessar o artigo.
 
-Clique [aqui](https://github.com/raffaloffredo/bar_chart_race/blob/main/%5BLoffredoDS%5D_Como_criar_um_gr%C3%A1fico_animado_com_o_Bar_Chart%C2%A0Race.ipynb) para acessar o código que gerou os gráficos mostrados no artigo.
+Clique [aqui](https://github.com/raffaloffredo/educacao_no_brasil/blob/main/%5BLoffredoDS%5D_Pesquisa_Situa%C3%A7%C3%A3o_Educacional_no_Brasil.ipynb) para acessar o código que gerou os gráficos mostrados no artigo.
 <br/>
 <br/>
 <br/>
