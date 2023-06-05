@@ -6,8 +6,6 @@
 </p>
 <br/>
 
-# ATENÇÃO: MATERIAL EM CONSTRUÇÃO!
-
 ## Sobre o projeto
 O artigo "Precisa de motivação para estudar? Veja isso!" mostra recortes referentes à situação da educação no Brasil: pessoas alfabetizadas, pessoas que completaram o ensino médio, as que completaram o ensino superior, etc.,  com o intuito de motivar o estudo para se chegar no topo hierárquico educacional. O que, infelizmente (ou felizmente para alguns) não é algo difícil de se conseguir no nosso país. Ao final, trago um dado impressionante e que apenas 3% da população total brasileira se enquadra. Será que você faz parte desse pequeno percentual? Leia o artigo e descubra!
 <br/>
